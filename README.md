@@ -4,7 +4,8 @@
 javascript:(function(){var s=document.createElement('script');s.src="//axutebils74.github.io/EPZ-hide-Net/index.js";document.body.appendChild(s)})();
 ```
 游玩RPGMV （误）  
-[https://axutebils74.github.io/EPZ/](https://axutebils74.github.io/EPZ/) 生成EPZ文件
+[https://axutebils74.github.io/EPZ/](https://axutebils74.github.io/EPZ/) 生成EPZ文件   
+[https://axutebils74.github.io/EPZ-HIDE/](https://axutebils74.github.io/EPZ-HIDE/) 生成EPZ-HIDE文件
 # 引用 
 ### idb-keyval
 [https://github.com/jakearchibald/idb-keyval](https://github.com/jakearchibald/idb-keyval)
